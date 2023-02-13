@@ -1,0 +1,24 @@
+#parent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+#colorBox{
+    background: beige;
+    height: 10rem ;
+    width: 10rem ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn{
+    margin-top: 5rem;
+    padding: 0.5rem;
+    background: none;
+    border: 0.15rem solid black;
+    border-radius: 1rem;
+}
